@@ -40,22 +40,12 @@ Desarrollado con **Flutter (frontend)** y **FastAPI (backend)**, combina precisi
 
 ## 🧱 Arquitectura del sistema
 
-"""LIA-Staylo/
-├── Flutter (Frontend)
-│ ├── lib/screens/ → Pantallas principales (Resultados, Sugerencias)
-│ ├── lib/services/ → Conexión API / backend
-│ ├── lib/widgets/ → Componentes UI reutilizables
-│ └── main.dart → Punto de entrada
-│
-├── FastAPI (Backend)
-│ ├── lia_backend.exe → Servidor local integrado
-│ └── endpoints/ → Rutas de análisis y exportación
-│
-├── LanguageTool (offline) → Motor lingüístico embebido
-└── assets/ → Iconos, plantillas y recursos gráficos
-
-yaml
-Copy code
+| Módulo                     | Contenido                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Frontend (Flutter)**     | `lib/screens` (Resultados, Sugerencias), `lib/services` (API), `lib/widgets` (UI), `main.dart` |
+| **Backend (FastAPI)**      | `endpoints` (rutas), `dist/lia_backend.exe`                                                    |
+| **LanguageTool (offline)** | Motor lingüístico embebido                                                                     |
+| **assets**                 | Iconos, plantillas, recursos                                                                   |
 
 ---
 
