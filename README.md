@@ -38,7 +38,7 @@ Desarrollado con **Flutter (frontend)** y **FastAPI (backend)**, combina precisi
 
 ---
 
-#### 🧱 Arquitectura del sistema
+# 🧱 Arquitectura del sistema
 
 | Módulo                     | Contenido                                                                                      |
 | -------------------------- | ---------------------------------------------------------------------------------------------- |
