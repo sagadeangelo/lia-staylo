@@ -40,7 +40,7 @@ Desarrollado con **Flutter (frontend)** y **FastAPI (backend)**, combina precisi
 
 ## 🧱 Arquitectura del sistema
 
-LIA-Staylo/
+"""LIA-Staylo/
 ├── Flutter (Frontend)
 │ ├── lib/screens/ → Pantallas principales (Resultados, Sugerencias)
 │ ├── lib/services/ → Conexión API / backend
