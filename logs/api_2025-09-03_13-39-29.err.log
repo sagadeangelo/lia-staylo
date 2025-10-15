@@ -1,0 +1,53 @@
+INFO:     Started server process [2348]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] Reglas cargadas es-MX: 3
+[INFO] Reglas cargadas es-419: 2
+[INFO] Reglas cargadas en-US: 0
+[ERROR] No se pudo leer el archivo
+Traceback (most recent call last):
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\main.py", line 510, in analyze_file
+    text = _read_upload_text(file)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\main.py", line 495, in _read_upload_text
+    doc = Document(path)
+          ^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\api.py", line 27, in Document
+    document_part = cast("DocumentPart", Package.open(docx).main_document_part)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\package.py", line 108, in main_document_part
+    return self.part_related_by(RT.OFFICE_DOCUMENT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\package.py", line 138, in part_related_by
+    return self.rels.part_with_reltype(reltype)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\rel.py", line 52, in part_with_reltype
+    rel = self._get_rel_of_type(reltype)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\rel.py", line 100, in _get_rel_of_type
+    raise KeyError(tmpl % reltype)
+KeyError: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+[ERROR] No se pudo leer el archivo
+Traceback (most recent call last):
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\main.py", line 510, in analyze_file
+    text = _read_upload_text(file)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\main.py", line 495, in _read_upload_text
+    doc = Document(path)
+          ^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\api.py", line 27, in Document
+    document_part = cast("DocumentPart", Package.open(docx).main_document_part)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\package.py", line 108, in main_document_part
+    return self.part_related_by(RT.OFFICE_DOCUMENT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\package.py", line 138, in part_related_by
+    return self.rels.part_with_reltype(reltype)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\rel.py", line 52, in part_with_reltype
+    rel = self._get_rel_of_type(reltype)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROYECTOS-FLUTTER\lia-staylo\backend\.venv\Lib\site-packages\docx\opc\rel.py", line 100, in _get_rel_of_type
+    raise KeyError(tmpl % reltype)
+KeyError: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"

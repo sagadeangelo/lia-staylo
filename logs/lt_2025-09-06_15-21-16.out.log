@@ -1,0 +1,33 @@
+2025-09-06 15:21:27.162 GMT-06:00 INFO  org.languagetool.server.DatabaseAccessOpenSource Not setting up database access, dbDriver is not configured
+2025-09-06 21:21:27 +0000 Setting up thread pool with 10 threads
+2025-09-06 15:21:30.165 GMT-06:00 WARN  org.languagetool.language.identifier.DefaultLanguageIdentifier fastText not configured - language detection performance will be degraded. See https://dev.languagetool.org/http-server#starting-from-command-line for instructions.
+2025-09-06 15:21:30.230 GMT-06:00 INFO  org.languagetool.server.TextChecker A/B-Test enabled: []
+2025-09-06 21:21:30 +0000 Starting LanguageTool 6.6 (build date: 2025-03-27 20:50:25 +0100, f3e8d91) server on http://localhost:8081...
+2025-09-06 21:21:30 +0000 Server started
+2025-09-06 15:31:12.790 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:31:12.968 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 252ms; sending code 200
+2025-09-06 15:31:22.533 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:31:22.546 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 13ms; sending code 200
+2025-09-06 15:32:29.813 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:32:29.822 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 9ms; sending code 200
+2025-09-06 15:35:06.810 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling POST /v2/check
+2025-09-06 15:35:30.606 GMT-06:00 INFO  org.languagetool.server.TextChecker Check done: 288595 chars, es, requestId: null, #1, null, 0/66 matches, 23703ms, agent:-, sent, q:0, h:1, dH:1, r:4, m:all, premium: false
+2025-09-06 15:35:30.614 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 23804ms; sending code 200
+2025-09-06 15:36:25.859 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:36:25.868 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 10ms; sending code 200
+2025-09-06 15:39:32.189 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:39:32.195 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 6ms; sending code 200
+2025-09-06 15:40:05.419 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:40:05.426 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 7ms; sending code 200
+2025-09-06 15:40:16.635 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:40:16.642 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 8ms; sending code 200
+2025-09-06 15:43:33.098 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:43:33.106 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 8ms; sending code 200
+2025-09-06 15:45:37.287 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 15:45:37.292 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 6ms; sending code 200
+2025-09-06 16:19:36.347 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 16:19:36.356 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 10ms; sending code 200
+2025-09-06 16:36:33.862 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 16:36:33.870 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 8ms; sending code 200
+2025-09-06 16:36:49.432 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-06 16:36:49.442 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 10ms; sending code 200

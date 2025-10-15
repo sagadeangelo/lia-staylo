@@ -1,0 +1,49 @@
+name: lia_staylo
+description: "LIA-Staylo - Revisión profesional de manuscritos y novelas."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.1.2
+  path: ^1.9.0
+  http: ^1.5.0
+  http_parser: ^4.0.2
+  mime: ^1.0.5
+
+  file_selector: ^1.0.3
+  file_selector_windows: ^0.9.3+4   # <- la versión que pide Pub
+
+  window_manager: ^0.3.9
+  docx_template: ^0.4.0
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  msix: ^3.16.12
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon.png
+    - assets/templates/plain.docx
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  windows: true
+  macos: false
+  web: false
+  image_path: "assets/icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+

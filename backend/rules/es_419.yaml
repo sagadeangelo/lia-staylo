@@ -1,0 +1,14 @@
+# Reglas de estilo para Español (Latinoamérica — es-419)
+rules:
+  - id: CUSTOM_MULE_ES419_001
+    message: "Muletilla poco necesaria en registro formal."
+    shortMessage: "Muletilla"
+    tokens: ["este", "eh", "o sea", "digamos", "tipo"]
+    category: STYLE
+
+  - id: CUSTOM_RED_ES419_002
+    message: "Frase redundante: en registro formal, prefiere una forma más directa."
+    shortMessage: "Redundancia"
+    regex: "(?i)\\balcanzar\\s+a\\s+lograr\\b"
+    suggestions: ["lograr", "alcanzar"]
+    category: STYLE

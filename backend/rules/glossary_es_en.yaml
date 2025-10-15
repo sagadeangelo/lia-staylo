@@ -1,0 +1,8 @@
+pairs:
+  "ordenador": "computer"
+  "teléfono móvil": "mobile phone"
+  "carretera": "highway"
+  "¡Hola!": "Hello!"
+options:
+  case_preserve: true    # respeta mayúsculas (Ordenador -> Computer, ORDENADOR -> COMPUTER)
+  word_boundary: true    # solo palabra completa

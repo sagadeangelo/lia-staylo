@@ -1,0 +1,24 @@
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins-dependencies
+
+# Windows generados / empaquetado
+windows/flutter/ephemeral/
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/*.pdb
+
+# Artefactos locales de distribución (NO subir)
+dist/
+dist_msix/
+exports/
+Documents/LIA-Staylo/**/*
+!Documents/LIA-Staylo/.gitkeep
+
+# IDE / SO
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

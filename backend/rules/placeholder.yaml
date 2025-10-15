@@ -1,0 +1,10 @@
+# Aquí podrás definir reglas personalizadas (YAML/JSON) para post-procesar hallazgos,
+# por ejemplo: muletillas, patrones de puntuación, formatos de diálogo, etc.
+# Ejemplo conceptual (no procesado aún por app.py):
+muletillas:
+  - "de alguna manera"
+  - "un poco"
+  - "de hecho"
+dialogo:
+  raya_dialogo: true
+  espacios_despues_raya: true

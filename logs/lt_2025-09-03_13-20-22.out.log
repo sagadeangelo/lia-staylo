@@ -1,0 +1,15 @@
+2025-09-03 13:20:24.333 GMT-06:00 INFO  org.languagetool.server.DatabaseAccessOpenSource Not setting up database access, dbDriver is not configured
+2025-09-03 19:20:24 +0000 Setting up thread pool with 10 threads
+2025-09-03 13:20:25.764 GMT-06:00 WARN  org.languagetool.language.identifier.DefaultLanguageIdentifier fastText not configured - language detection performance will be degraded. See https://dev.languagetool.org/http-server#starting-from-command-line for instructions.
+2025-09-03 13:20:25.788 GMT-06:00 INFO  org.languagetool.server.TextChecker A/B-Test enabled: []
+2025-09-03 19:20:25 +0000 Starting LanguageTool 6.6 (build date: 2025-03-27 20:50:25 +0100, f3e8d91) server on http://localhost:8081...
+2025-09-03 19:20:25 +0000 Server started
+2025-09-03 13:20:27.816 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:20:27.871 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 68ms; sending code 200
+2025-09-03 13:20:27.960 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:20:27.963 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 2ms; sending code 200
+2025-09-03 13:30:54.128 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:30:54.135 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 7ms; sending code 200
+2025-09-03 13:31:04.991 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling POST /v2/check
+2025-09-03 13:31:08.289 GMT-06:00 INFO  org.languagetool.server.TextChecker Check done: 28 chars, es, requestId: null, #1, null, 0/2 matches, 3259ms, agent:-, sent, q:0, h:1, dH:1, r:4, m:all, premium: false
+2025-09-03 13:31:08.291 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 3301ms; sending code 200

@@ -1,0 +1,10 @@
+2025-09-03 13:14:03.306 GMT-06:00 INFO  org.languagetool.server.DatabaseAccessOpenSource Not setting up database access, dbDriver is not configured
+2025-09-03 19:14:03 +0000 Setting up thread pool with 10 threads
+2025-09-03 13:14:04.686 GMT-06:00 WARN  org.languagetool.language.identifier.DefaultLanguageIdentifier fastText not configured - language detection performance will be degraded. See https://dev.languagetool.org/http-server#starting-from-command-line for instructions.
+2025-09-03 13:14:04.749 GMT-06:00 INFO  org.languagetool.server.TextChecker A/B-Test enabled: []
+2025-09-03 19:14:04 +0000 Starting LanguageTool 6.6 (build date: 2025-03-27 20:50:25 +0100, f3e8d91) server on http://localhost:8081...
+2025-09-03 19:14:04 +0000 Server started
+2025-09-03 13:14:06.864 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:14:06.914 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 64ms; sending code 200
+2025-09-03 13:14:06.967 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:14:06.970 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 3ms; sending code 200

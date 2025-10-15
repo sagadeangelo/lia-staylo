@@ -1,0 +1,19 @@
+- id: CUSTOM_MULE_ESMX_001
+  message: "Muletilla poco necesaria en registro formal."
+  shortMessage: "Muletilla"
+  regex: '\b(este|pues|o\s+sea)\b'
+  category: STYLE
+
+- id: CUSTOM_REG_ESMX_002
+  message: "Evita 'qué tanto' en registro formal; suele preferirse 'cuánto'."
+  shortMessage: "Registro"
+  regex: '(?i)\bqué\s+tanto\b'
+  suggestions: ["cuánto"]
+  category: STYLE
+
+- id: CUSTOM_SOLO_ESMX_003
+  message: "Recomendación actual: usar 'solo' (sin tilde) salvo ambigüedad."
+  shortMessage: "Estilo"
+  regex: '\bsólo\b'
+  suggestions: ["solo"]
+  category: STYLE

@@ -1,0 +1,1070 @@
+
+
+Libro de estilo
+de la lengua española
+según la norma panhispánica
+28810_00_Primeras_LibroEstiloDeLaRAE.indd   528810_00_Primeras_LibroEstiloDeLaRAE.indd   5 25/10/18   07:5725/10/18   07:57
+
+Índice general
+Presentación. Para mejorar el estilo 	 	 13
+Guía de uso de la obra 	 	 19
+Cuestiones gramaticales  	 	 21
+Cuestiones ortográficas  	 	 85
+Cuestiones de ortotipografía  	 	 149
+Pronunciación y elocución  	 	 211
+Escritura y comunicación digital  	 	 269
+Cómo aprovechar el diccionario  	 	 313
+Glosario  	 	 335
+Apéndices  	 	 475
+1 Modelos de conjugación  	 	 476
+2 Tabla de numerales  	 	 482
+3 Lista de abreviaturas  	 	 484
+4 Lista de símbolos alfabetizables  	 	 492
+5 Lista de símbolos no alfabetizables  	 	 497
+28810_00_Primeras_LibroEstiloDeLaRAE.indd   11 26/10/18   10:54
+
+Presentación
+Para mejorar el estilo
+Deﬁ ne nuestro Diccionario el estilo como «manera de escribir o de 
+hablar». «Una lengua —decía Amado Alonso— ha sido lo que sus 
+hablantes hicieron de ella, es lo que están haciendo, será lo que ha-
+gan de ella». Superada la idea positivista y biologista de una evolu-
+ción natural del lenguaje, ajena a cualquier acción voluntaria del 
+hombre, esa aﬁ rmación idealista de don Amado nos sitúa a cuantos 
+hablamos español ante nuestra responsabilidad institucional y co-
+lectiva respecto del idioma. Porque la lengua la hace el pueblo y es 
+del pueblo. El poeta latino Horacio lo explicó con toda claridad en 
+su Arte poética:
+«Como el bosque muda de follaje al declinar del año y caen las hojas 
+más viejas, de la misma manera perece la generación antigua de pala-
+bras y, al modo de los jóvenes, ﬂ orecen y tienen brío las nacidas hace 
+poco […]. Rebrotarán muchas palabras que ya habían caído y caerán 
+las que ahora están de moda, si así lo quiere el uso, en cuyo poder residen 
+el arbitrio, la autoridad y la norma de la lengua» (vv. 60-62 y 70-72).
+Cuando en el siglo XVIII la Real Academia Española se presenta 
+en sociedad con su Diccionario, advierte que ella «no es maestra, ni 
+maestros los académicos, sino unos jueces que con su estudio han 
+juzgado las voces; y para que no sea libre [arbitraria o sin funda-
+mento] la sentencia, se añaden los méritos de la causa, propuestos 
+en las autoridades que se citan». Se reﬁ ere a los dos o tres ejemplos 
+de uso que avalan que esa palabra incorporada es «limpia, pura, cas-
+tiza y española». Castiza quería decir ahí que es patrimonial, que 
+pertenece a la casta, y que lo que expresa es claro y propio.
+28810_01_LibroEstiloDeLaRAE.indd   1328810_01_LibroEstiloDeLaRAE.indd   13 25/10/18   07:5725/10/18   07:57
+
+14 PRESENTACIÓN
+No se limitaban los académicos a buscar términos en los gran-
+des autores literarios —que lo hacían—, sino que se movían a la vez 
+en lo que podemos llamar ámbito de lo cotidiano y vulgar. Rebasan-
+do, pues, lo cortesano, incorporaba el Diccionario voces anticuadas, 
+bajas o bárbaras, preocupándose, eso sí, de caliﬁ carlas como tales, 
+según el uso y arbitrio de los hablantes que, con ello, constituían la 
+norma.
+Desde el primer momento se tuvo conciencia de la unidad y va-
+riedad del español peninsular y el americano. Tras la independencia 
+de la metrópoli, se formó en cada república una academia corres-
+pondiente de la española. En 1951 se creó la Asociación de Acade-
+mias de la Lengua Española (ASALE), que desde comienzos de este 
+siglo lleva adelante una política lingüística panhispánica. Supone 
+esta la participación efectiva en pie de igualdad de todas las acade-
+mias en la preparación de las obras fundamentales. Uno de los prime-
+ros proyectos fue, precisamente, el del Libro de estilo, que se anunció 
+en el II Congreso Internacional de la Lengua Española (2001), y se 
+aplazó entonces para dar prioridad a los códigos básicos de la lengua, 
+el Diccionario, la Gramática y la Ortografía, y al Diccionario panhis-
+pánico de dudas, concebidos desde la nueva perspectiva.
+La norma panhispánica tiene un carácter policéntrico, lo que 
+signiﬁ ca el reconocimiento de las variedades lingüísticas de cada 
+región que se integran en la armonía de la unidad. Como aclara el 
+prólogo de la Nueva gramática, unas construcciones gramaticales 
+son comunes a todos los hispanohablantes, mientras que otras se 
+documentan en una determinada comunidad o se limitan a una 
+época. Pero, además, esas construcciones gozan de prestigio social 
+o carecen de él. Los hablantes mismos consideran que unas cons-
+trucciones gramaticales son propias del discurso formal y que otras 
+están restringidas al habla coloquial; que corresponden a la lengua 
+oral, escrita o que son comunes a ambas; que forman parte de la 
+lengua general común o que, por el contrario, están limitadas a un 
+tipo de discurso, el cientíﬁ co, el periodístico, el infantil, etc. Las re-
+comendaciones de las academias se basan, por tanto, en la percep-
+ción que tienen de los juicios lingüísticos que los hablantes conside-
+rados cultos llevan a cabo sobre la lengua, y de cuyos usos tienen 
+conciencia.
+Cada día consultan digitalmente el Diccionario millones de per-
+sonas. Cada día, también, centenares de hispanohablantes acceden 
+al servicio de «Español al día» de la RAE, y a los aﬁ nes que funcio-
+28810_01_LibroEstiloDeLaRAE.indd   1428810_01_LibroEstiloDeLaRAE.indd   14 25/10/18   07:5725/10/18   07:57
+
+15 PARA MEJORAR EL ESTILO
+nan en las academias hermanas, para plantear sus dudas léxicas, 
+gramaticales u ortográﬁ cas. Este Libro de estilo nace para colaborar 
+en la oferta de soluciones.
+¿Se dice la jueza o la juez?, ¿los guardiaciviles o los guardiasciviles? ¿Es 
+mejor decir buenos días, como en España, o buen día, como se hace en 
+algunos países americanos?; ¿adecuo o adecúo? ¿Es correcto terminar 
+un discurso diciendo «Por último, agradecer su asistencia»?... Y así 
+sucesivamente.
+Viva en la boca de más de quinientos cincuenta millones de ha-
+blantes, la lengua española evoluciona y cambia cada día. Este Libro 
+de estilo  se ocupa, fundamentalmente, de las dudas y variaciones 
+que, en relación con la Nueva gramática, incluida la Fonética, y la 
+Ortografía, consensuadas por todas las academias, se han produci-
+do desde su publicación hace pocos años. No se trata, pues, de ofre-
+cer aquí tratados completos. Se seleccionan tan solo en cada uno de 
+esos campos aquellos puntos que ofrecen dudas frecuentes o cuyo 
+conocimiento y uso garantiza un español correcto y más rico en su 
+expresión.
+En los últimos años se viene comprobando, por ejemplo, en las 
+intervenciones públicas una relajación de la expresión oral o ento-
+nación de la lengua española: se descoyuntan las estructuras grama-
+ticales elementales, se dislocan los ritmos y se introducen al albur 
+soniquetes arbitrarios. Retomando los estudios básicos de la fonéti-
+ca española, aunque sin pretender agotar todas las variedades de 
+España y América, se trazan aquí las líneas básicas de «Pronuncia-
+ción y elocución» que permitirán reconstruir la amalgama de des-
+viaciones caprichosas y ennoblecer, en cambio la entonación de 
+nuestra lengua.
+Al mismo tiempo, explora el Libro de estilo y estudia nuevos es-
+pacios de realización de la lengua española. Por primera vez en el 
+conjunto de las publicaciones académicas se dedica un capítulo ex-
+tenso a la ortotipografía, que el Diccionario deﬁ ne como «Conjunto 
+de usos y convenciones particulares por las que se rige en cada len-
+gua la escritura mediante signos tipográﬁ  cos». Es, dicho de otro 
+modo, «la ortografía peculiar de la escritura no manual», según el 
+académico Francisco Rico, quien considera que «debiera aprender-
+se ya en la escuela» y, hace años, pensando en ello, propuso la crea-
+ción de este Libro de estilo.
+28810_01_LibroEstiloDeLaRAE.indd   1528810_01_LibroEstiloDeLaRAE.indd   15 25/10/18   07:5725/10/18   07:57
+
+16 PRESENTACIÓN
+Se completa la ortotipografía en el capítulo de «Escritura y co-
+municación digital». En él, tras analizar los elementos de apoyo, 
+emoticonos y otros reﬂ ejos de la oralidad, así como los neologismos, 
+préstamos y extranjerismos, se estudian en detalle el correo elec-
+trónico, las páginas web, el periodismo digital, los chats, los guasaps 
+y la mensajería instantánea, y, en ﬁ n, el complejo fenómeno de las 
+redes sociales.
+Culmina el Libro en lo que es su germen y compendio: un riquí-
+simo «Glosario» de 138 páginas, donde se explican términos técnicos 
+empleados a lo largo de la obra —lo que permite localizar al instante 
+las dudas o cuestiones de interés— y se recogen las voces y locucio-
+nes más vivas en nuestro tiempo en el léxico español contempo-
+ráneo. No todas pertenecen al español general: muchas se incluyen 
+porque plantean dudas a hispanohablantes de distintos países. 
+También para resaltar la riqueza de la diversidad. Va precedido el 
+«Glosario» de un capítulo sobre «Cómo aprovechar el diccionario». 
+En él se afrontan su naturaleza y técnica de composición, así como 
+el sentido y función de las abreviaturas que preceden y jalonan cada 
+registro. Ello servirá de guía eﬁ caz para sacar el mayor provecho de 
+la consulta de este tesoro, que se ampliará en su próxima edición 
+digital. Completa el estudio la información sobre otros diccionarios 
+académicos.
+La atención que los hispanohablantes prestan a su compromiso 
+con el idioma varía con el tiempo. Hubo épocas en la historia en las 
+que los hablantes enriquecieron nuestra lengua. En los con toda 
+justicia llamados «siglos de oro» todos los países de Europa se es-
+forzaron en mejorar sus respectivas lenguas vernáculas, conﬁ rién-
+doles mayor capacidad de creación de pensamiento y de hermosura 
+de expresión. Fue entonces cuando, como anticipaba Nebrija, ﬂ ore-
+cieron las artes de la paz. En su Diálogo sobre la dignidad del hombre 
+explicaba Fernán Pérez de Oliva que con cada palabra creaba el 
+hombre mundos nuevos al tiempo que con el trabajo de sus manos 
+era capaz de crear nuevas formas en la ciencia aplicada y en la téc-
+nica.
+Contrastaron con ellos otros tiempos posteriores en los que el 
+uso de la lengua se empobreció. Como en el último cuarto del si-
+glo XIX, cuando doña Emilia Pardo Bazán confesaba avergonzada: 
+«hemos hecho una España baja, de tapiz de Goya o de sainete». Or-
+tega y Gasset enseñaría poco más tarde que para regenerar ese país 
+caído, antes que una educación política, era necesaria como base 
+28810_01_LibroEstiloDeLaRAE.indd   1628810_01_LibroEstiloDeLaRAE.indd   16 25/10/18   07:5725/10/18   07:57
+
+17 PARA MEJORAR EL ESTILO
+indispensable una educación de la sensibilidad, y que esta solo se 
+logra con el cuidado de la palabra. No vivimos tiempos mejores. El 
+descuido generalizado en el uso por las jóvenes generaciones de la 
+lengua española ha llevado a caliﬁ carlo como paupérrimo y zarra-
+pastroso. 
+El Libro de estilo de la lengua española según la norma panhispá-
+nica quiere estimular una reacción y ayudar a mejorar, de una ma-
+nera sencilla y cercana, el conocimiento de nuestro idioma y el estilo 
+con el que hablamos o escribimos.
+28810_01_LibroEstiloDeLaRAE.indd   1728810_01_LibroEstiloDeLaRAE.indd   17 25/10/18   07:5725/10/18   07:57
+
+94O-34 PALABRAS CON SECUENCIAS DE VOCALES Y CONSONANTES
+34 penalti, no Upenalty; Toni, no UTony. Se debe usar i en los extran-
+jerismos adaptados, como penalti o dandi (no Upenalty ni Udandy), 
+en hipocorísticos españoles, como Toni o Mari (no UTony ni UMary), 
+y en la transcripción de nombres propios procedentes de lenguas 
+con alfabeto no latino, como en Chaikovski.
+35 hierba/yerba, pero hielo, no Uyelo. Puesto que la i ante vocal se 
+pronuncia de una manera muy similar a [y], hay casos  en los que 
+alterna el uso de i e y, como ocurre en los siguientes pares (la prime-
+ra forma corresponde a la grafía preferida): hiedra/yedra, hier-
+ba/yerba, hierbabuena/yerbabuena, yatrogenia/iatrogenia, yodo/iodo. 
+En cambio, se aceptan solo las grafías con hi- en las formas de los 
+verbos que empiezan por h, como herir, helar, hervir, herrar o heder: 
+hiero, hielo, hiervo, hierro, hiedo… Se escriben también con hi- vo-
+ces como hierro ‘elemento metálico’ (no Uyerro), hielo ‘agua conge-
+lada’ (no Uyelo), hiena, hierático…
+36 veintiuno, noventayochismo/noventaiochismo. Se utiliza i, y no y, 
+en los numerales complejos formados con y cuando se escriben en 
+una sola palabra ( ➤ O-241): veintiuno, treinta iuno, cuarenta iuno, 
+cincuentaiocho… Solo se acepta la escritura con i o con y en los deri-
+vados de numerales que dan nombre a movimientos y a sus seguido-
+res: noventayochismo/noventaiochismo (de la generación del 98), 
+sesentayochista/sesentaiochista (de la revolución del 68).
+PALABRAS CON SECUENCIAS DE VOCALES Y CONSONANTES
+37 Simpliﬁ cación de vocales iguales.  En las secuencias de vocales 
+iguales que aparecen en palabras preﬁ jadas y compuestas, es posi-
+ble, en general, reducir a una las dos vocales en la escritura, siempre 
+y cuando la simpliﬁ cación esté generalizada en el habla y la forma 
+resultante no pueda confundirse con otra palabra de distinto signiﬁ -
+cado. Estos son algunos de los casos en los que hoy se admite la sim-
+pliﬁ cación (siguiendo lo que ya ha ocurrido en formas asentadas 
+como drogadicto, paraguas, telespectador, decimoctavo o monóculo):
+a. contraatacar/contratacar, portaaviones/portaviones. En palabras 
+con los preﬁ jos contra-, extra-, infra-, intra-, meta-, para-, supra-, 
+tetra-, ultra-  y en los compuestos:  contr aanálisis/contranáli-
+sis, contraargumentar/contrargumentar, contraatacar/contrata-
+car, extraabdominal/extrabdominal, portaaviones/portaviones.
+28810_03_LibroEstiloDeLaRAE.indd   9428810_03_LibroEstiloDeLaRAE.indd   94 25/10/18   07:5825/10/18   07:58
+
+95 PALABRAS CON SECUENCIAS DE VOCALES Y CONSONANTES O-40
+b. preescolar/prescolar, cubreesquinas/cubresquinas, ees/es . En 
+palabras con los preﬁ  jos o elementos compositivos pre-, re- , 
+ requete-, sobre-, tele- o vice-, y en los compuestos: reelegir/relegir, 
+reemplazar/remplazar, preestreno/prestreno, preescolar/presco-
+lar, sobr eentender/sobrentender, cubr eesquinas/cubresquinas. 
+Para el plural de la e, se preﬁ ere es a ees.
+c. antiincendios/antincendios. En palabras con los preﬁ jos o ele-
+mentos compositivos anti-, di-, mini-, multi-, pluri-, poli-, semi- o 
+toxi-: antiincendios/antincendios, miniindustria /min industria, 
+multiidioma /multidioma, poliinsaturado /polinsaturado…
+d. macrooperación/macroperación, cooperar/coperar . En pala-
+bras con los preﬁ jos o elementos compositivos del tipo de auto-, 
+dermo-, electro-, endo-, euro-, foto-, germano-, gineco-, hemato-, 
+lipo-, macro- , magneto- , micro- , mono- , pro- , proto- , (p)sico- o 
+quimio-: macrooperación/macroperación, micr oobservación/mi-
+crobservación… También con co- en cooperar/coperar y coordi-
+nación/cordinación y palabras de sus familias, como cooperati-
+va/coperativa o coordinar/cordinar.
+38 obsceno, pero oscuro mejor que obscuro. Aunque la b tiende a rela-
+jarse (➤ P-23, a), el grupo -bs- ante consonante se pronuncia [bs] en 
+palabras como abstemio, abstener, abstracto, obsceno, obstáculo, obs-
+tar, obstetricia, obstinar, obstruir y derivados y en expresiones rela-
+cionadas con estas (abstención, abstraer, no obstante, obstrucción…). 
+Se recomienda, en cambio, su reducción a s en oscuro, suscribir, sus-
+tancia, sustantivo, sustituir , sustraer  y expresiones relacionadas, 
+como oscuridad, oscurecer, suscripción, suscrito, insustancial, susti-
+tuto, sustitución, sustracción, sustrato…
+39 cnidario/nidario, gnomo/nomo , mnemotecnia/nemotecnia . Los 
+grupos consonánticos cn-, gn-, mn-, pn- representan hoy el sonido 
+[n]. En el uso culto se escriben cn-, gn-, mn- y pn-, pero se admite la 
+escritura con n- (salvo en nombres propios griegos: Cnosos, Mne-
+mosine…): cnidario o nidario, gnomo o nomo, gneis o neis, gnosticis-
+mo o nosticismo, mnemotecnia o nemotecnia, pneuma o neuma… En 
+algunos casos, la grafía con simpliﬁ cación es la única admitida hoy: 
+neumático, neumococo, neumonía…
+40 consciente, constipar. Aunque el grupo -ns- ante consonante tien-
+de a relajarse y simpliﬁ carse (➤ P-23, h), se mantiene en la pronun-
+ciación cuidada y no se debe reducir, en principio, en la escritura: 
+consciente, inco nscien te, co nstruir, co nstelación, me nstruación, 
+28810_03_LibroEstiloDeLaRAE.indd   9528810_03_LibroEstiloDeLaRAE.indd   95 25/10/18   07:5825/10/18   07:58
+
+96O-41 PALABRAS CON SECUENCIAS DE VOCALES Y CONSONANTES
+monstruo, circunstancia, constipar, inspirar, instinto, instituto, ins-
+trumento, instigar… (para el caso de consciencia y conciencia, ➤ GLO-
+SARIO).
+41 trastienda, transformar/trasformar, transexual. En español hay pa-
+labras que solo se pueden escribir con tras-, otras que se pueden es-
+cribir con trans- o tras- y otras que solo se pueden escribir con trans-:
+a. Se usa tras-:
+l Cuando el preﬁ  jo signiﬁ ca ‘detrás de’: trastienda, trasaltar, 
+trascoro, traspatio…
+l En otros casos concretos y en sus derivados, como trasfondo, 
+trashumar, traslapar, trasluz, trasmano, trasnochar, trasoír, 
+traspapelar, traspasar, traspié, trasplantar y trasplante (aun-
+que son comunes en algunas zonas transplantar y transplan-
+te), trasquilar, trastabillar, trastornar, trast(r)ocar.
+b. Se usa trans- o tras-:
+l Ante consonante: transbordo o tra sbordo, tra nscendencia o 
+trascendencia, transcribir o trascribir, transferir o trasferir, 
+transformar o trasformar, transgredir o trasgredir, translúci-
+do o traslúcido, transmitir o trasmitir, transparente o traspa-
+rente, transponer o trasponer, transpuesto o traspuesto, etc.
+l En derivados creados en español: transatlántico o trasatlán-
+tico, transnacional o trasnacional, transoceánico o trasoceáni-
+co, etc.
+c. Se usa trans-:
+l Cuando el preﬁ jo se une a palabras con s-: transexual, transi-
+beriano, transustanciación…
+l Ante vocal, cuando trans- no puede analizarse como preﬁ jo: 
+transeúnte, transición, transistor…
+42 psicología/sicología. El grupo ps- en posición inicial representa el 
+sonido [s]. En esa posición, no es normal hoy la pronunciación [ps]. 
+En el uso culto se escribe ps- (salvo en seudología, seudónimo, seu-
+dópodo), pero se acepta la escritura con s-: psicología o sicología, 
+psicosis o sicosis, psiquiatra o siquiatra, psitacismo o sitacismo, 
+pseudoprofeta o seudoprofeta, psoriasis o soriasis… Cuando este 
+grupo aparece a ﬁ nal de palabra, no hay simpliﬁ  cación en la pro-
+nunciación, como en el caso de bíceps.
+43 pterodáctilo/terodáctilo, aceptar, septiembre/setiembre. En posi-
+ción inicial, el grupo pt- representa el sonido [t] y se puede escribir 
+28810_03_LibroEstiloDeLaRAE.indd   9628810_03_LibroEstiloDeLaRAE.indd   96 25/10/18   07:5825/10/18   07:58
+
+97 EXPRESIONES CON GRAFÍAS PROBLEMÁTICAS O-48
+pt- (en el uso culto) o t-: pterodáctilo o terodáctilo, ptolemaico o to-
+lemaico, Ptolomeo o Tolomeo, ptosis o tosis… (en algunos casos ya 
+solo se acepta la grafía con t: tisana, tisis o tomaína). En posición 
+intermedia, el grupo pt representa en la pronunciación culta los so-
+nidos [pt] y no se debe escribir solamente t: abrupto, aceptar, adep-
+to, apto, concepto, críptico, escéptico, óptimo, perceptible… Solo en 
+casos como septiembre y séptimo se admiten las grafías y pronun-
+ciación simpliﬁ cadas: setiembre y sétimo.
+44 doscientos, no Udocientos; consciente, no Uconciente. El grupo sc 
+se pronuncia [sz] en zonas no seseantes, pero [s] en zonas seseantes. 
+En cualquier caso, este grupo no debe reducirse en la escritura: dos-
+cientos (no Udocientos), trescientos (no Utrecientos) o consciente (no 
+Uconciente). Sobre consciencia y conciencia, ➤ GLOSARIO.
+45 poselectoral , pero postsimbolismo . El grupo -st- al ﬁ nal de sílaba 
+(ya sea en mitad de palabra o al ﬁ nal) suele pronunciarse como [s]. 
+En posición intermedia solo aparece en istmo y sus derivados y en 
+palabras con el preﬁ jo post-. En este caso se recomienda usar pos- 
+ante vocal o cualquier consonante, excepto s: posdata, poselecto-
+ral, posgrado, posindustrial , posmoderno, posoperatorio, posparto, 
+postraumático, po sverdad, etc., pero postsimbolismo , postsoviéti-
+co, etc. El grupo st también puede aparecer a ﬁ nal de palabra: test, 
+pódcast.
+46 tsunami/sunami. El grupo inicial ts-, que se pronuncia general-
+mente como [s], se puede reducir en la escritura. Así, son igualmen-
+te válidas las grafías tsunami y sunami.
+EXPRESIONES CON GRAFÍAS PROBLEMÁTICAS
+47 adonde / a donde y adónde / a dónde. Hoy se admiten las dos  grafías 
+en los pares adonde / a donde y adónde / a dónde: Síguele adonde / a 
+donde vaya; ¿Adónde / a dónde vas?
+48 adondequiera, dondequiera , quienquiera , comoquiera , cuando-
+quiera. Cuando estos elementos indican indistinción, se escriben 
+en una sola palabra: Te seguiré adondequiera que vayas; Dondequiera 
+que esté lo encontraré; Pregúntale a quienquiera que lo sepa. Se escri-
+ben en varias palabras cuando los elementos que los forman conser-
+van su signiﬁ cado pleno: Llévale adonde quiera su madre; Dile que lo 
+ponga donde quiera Juan; Que venga quien quiera venir a divertirse .
+28810_03_LibroEstiloDeLaRAE.indd   9728810_03_LibroEstiloDeLaRAE.indd   97 25/10/18   07:5825/10/18   07:58
+
+98O-49 EXPRESIONES CON GRAFÍAS PROBLEMÁTICAS
+49 a ver y haber: 
+a. Se escribe a ver:
+l La combinación de a y ver con su sentido literal: Fue a ver a 
+su abuela; He empezado a ver la película; Las llevaron a ver el 
+museo. 
+l En oraciones que empiezan por a ver si…: A ver si vienes más 
+a menudo; A ver si lo sabes.
+l Cuando va seguido de interrogativo en casos como A ver 
+quién lo sabe; A ver cuántos países te sabes.
+l Como expresión independiente con distintos valores: A ver, 
+¿qué te pasa?; ¡A ver! ¿Se quieren callar?; A ver, dame el cuader-
+no; ¿A ver? ¡Qué bonito!; A ver, resulta que no lo había hecho.
+b. Se escribe haber:
+l En construcciones en las que aparece el inﬁ  nitivo haber, 
+también como auxiliar: Parece haber alguien ; No se puede 
+aprobar sin haber presentado el trabajo; Debería haber llegado 
+el correo ya; Para haber escrito tan rápido el poema, no te ha 
+quedado mal.
+l En construcciones con « haber + participio» con las que se re-
+conviene sobre alguna situación pasada ( ➤ G-53, d): Haber 
+venido antes; Haberlo dicho en su momento.
+50 conque y con que. Se escribe conque la conjunción con valor similar 
+a así que que aparece en casos como Es peligroso, conque mucho cui-
+dado; Conque sí, ¿eh? ; ¡Conque no lo sabías…!  Se escribe con que la 
+combinación de la preposición con y la conjunción que: No me ven-
+gas con que no lo sabías ; Me encuentro con que se lo habían llevado ; 
+Con que me pagues la mitad, está bien . Asimismo se escribe con que 
+cuando equivale a con el/la/los/las que (➤ G-166): No es ese el senti-
+do con que se usa esa expresión [= con el que…]. 
+51 porque y por que. Se escribe porque cuando este elemento introdu-
+ce una causa: Lo hice porque quería; Se alegra porque Juan por ﬁ n ha 
+vuelto; Está preocupado porque Isabel lleva unos días sin llamar . Se 
+escribe obligatoriamente por que cuando esta secuencia introduce 
+un segmento que no expresa causa, como en Se caracteriza por que 
+no come por la boca, y cuando que es un relativo y la expresión equi-
+vale a por el/la/los/las que (➤ G-166), como en La razón por que no 
+puedo hacerlo es esa [= por la que…].
+28810_03_LibroEstiloDeLaRAE.indd   9828810_03_LibroEstiloDeLaRAE.indd   98 25/10/18   07:5825/10/18   07:58
+
+99 EXPRESIONES CON GRAFÍAS PROBLEMÁTICAS O-56
+52 porque o por que. Se puede escribir por que o porque en contextos 
+en los que se expresa una reacción orientada hacia el futuro. Esto es 
+normal en construcciones con apostar, brindar, votar, rogar, rezar, 
+esforzarse, pelear , dar la vida , preocuparse (por algo del futuro): 
+Brindaron por que / porque le fuera muy bien ; Se preocupa por que / 
+porque todo el mundo esté bien.
+53 por qué y porqué. Se escribe por qué  en las preguntas directas e 
+ indirectas y como relativo tónico (➤ O-70): ¿Por qué haces eso?; Me 
+preguntó por qué lo había hecho así; No tienes por qué hacerlo así. Se 
+escribe porqué el nombre que signiﬁ ca ‘razón, motivo’: No entiendo 
+el porqué; Me preguntó el porqué de mi mal comportamiento . En ca-
+sos como Me preguntó el por qué lo había hecho así , se recomienda 
+prescindir del artículo: Me preguntó por qué lo había hecho así.
+54 sino y si no. Se escribe sino la conjunción átona que aparece en con-
+textos en los que se ha negado la frase anterior en casos como No lo 
+hizo Juan, sino Pedro . Esta conjunción suele aparecer en las cons-
+trucciones no solo…, sino también …; no porque…, sino porque… : No 
+solo se lo sabe, sino que también lo explica muy bien ; Lo hizo no por-
+que quisiera hacerte un favor, sino porque le interesaba a él. También 
+se escribe sino en contextos en los que este elemento tiene un valor 
+similar a más que o excepto: ¿Quién sino Juan podía hacerlo?; ¿Dónde 
+íbamos a estar mejor sino en casa? Asimismo, se escribe en una sola 
+palabra el nombre sino ‘destino’: No puedo hacer nada al respecto: es 
+mi sino. 
+Se escribe si no  la combinación de la conjunción condicional si 
+con no, adverbio tónico: Si no lo haces tú, lo hará él ; Lo había visto 
+antes; si no, era imposible que lo supiera; Intenta hacerlo tú o pídeselo 
+a ella si no. También se escribe si no en construcciones como las si-
+guientes, donde no es tónico: Lo hicieron cientos, si no miles, de ve-
+ces; Lo hizo Juan; ¿quién si no?
+55 ﬁ nde, porfa. Se escriben en una sola palabra acortamientos de ex-
+presiones pluriverbales como ﬁ nde (de ﬁ n de semana ), porfa (de 
+por favor; también porﬁ  y porﬁ s), Sanse (de San Sebastián) o simpa 
+(de sin pagar).
+56 Otras expresiones que plantean dudas a la hora de escribirlas en 
+una o en varias palabras son a bordo, acaso (también por si acaso), 
+a cerca de ~ acerca de, adiós, a gusto, a lo mejor, alrededor, a parte ~ 
+28810_03_LibroEstiloDeLaRAE.indd   9928810_03_LibroEstiloDeLaRAE.indd   99 25/10/18   07:5825/10/18   07:58
+
+100O-57 ACENTUACIÓN
+aparte, apenas, a pesar (de), aposta, a rastras ~ arrastras, asimismo ~ 
+así mismo ~ a sí mismo, a veces, bienvenido, contrarreloj ~ contra reloj, 
+(dar) abasto, de más ~ demás, de parte de, de paso, de pie, deprisa, de 
+repente, de veras, en ﬁ n, enfrente, enseguida, en serio, en torno ~ en-
+torno, entretanto, es decir , malentendido ~ mal entendido , o sea , por 
+favor, por ﬁ n, por supuesto, porvenir ~ por venir, sin embargo, sinver-
+güenza ~ sin vergüenza , sobre todo ~ sobretodo y tal vez (aunque se 
+usa y se acepta talvez en América). Se explican en el GLOSARIO las 
+más problemáticas.
+57 aaaaah. Cuando se quiere reﬂ ejar un alargamiento en la pronuncia-
+ción de alguna palabra, se pueden repetir en la escritura (preferi-
+blemente más de dos veces) algunas de sus letras, tanto vocales 
+como consonantes: gooooollll de Iniestaaa; aaaaah (o también, aun-
+que menos recomendable, ahhhh), mamááááá (sobre la acentua-
+ción, ➤ O-83).
+ACENTUACIÓN
+58 Las palabras tienen acentuación prosódica (la que se produce en 
+la pronunciación) y acentuación gráﬁ ca (la que se marca en la 
+ escritura). Para hacer referencia a la primera se habla de acento, 
+mientras que para la rayita oblicua que se usa en la escritura de 
+ algunas palabras se puede hablar de acento (gráﬁ co) o de tilde. 
+Según si se pronuncian dentro del discurso con acento en alguna 
+sílaba o no, las palabras pueden ser tónicas (con acento) o átonas 
+(sin acento). 
+59 Palabras agudas, llanas, esdrújulas y sobresdrújulas. Dependien-
+do del lugar que ocupa la sílaba en la que recae el acento en la pro-
+nunciación de las palabras, estas pueden ser:
+l Agudas: El acento recae en la última sílaba. Son agudas palabras 
+como caracol, correr, baobab , felicidad , regaliz, cartón , bambú , 
+jersey, coméis, bonsái.
+l Llanas o graves: El acento recae en la penúltima sílaba. Son lla-
+nas palabras como casa, ventana, examen, árbol, póster.
+l Esdrújulas: El acento recae en la antepenúltima sílaba. Son es-
+drújulas palabras como sábado, carátula, análisis, póntelo.
+l Sobresdrújulas: El acento recae en la sílaba anterior a la ante-
+penúltima o la anterior a esta. En español, las únicas palabras 
+28810_03_LibroEstiloDeLaRAE.indd   10028810_03_LibroEstiloDeLaRAE.indd   100 25/10/18   07:5825/10/18   07:58
+
+101 ACENTUACIÓN O-60
+sobresdrújulas son las combinaciones de verbos y pronombres: 
+cómpratelo, quiéreteme, regálaselo, tómesemelos.
+Puesto que las palabras monosílabas solo tienen una sílaba, no en-
+tran en esta clasiﬁ cación a pesar de que puedan ser tónicas. Así, no 
+se puede decir que palabras como más o Juan sean agudas. Los ad-
+verbios en -mente tampoco entran dentro de la clasiﬁ  cación por-
+que tienen dos acentos ( ➤ P-66, d). Por eso, no se puede decir que 
+claramente sea una palabra llana ni que ágilmente sea una palabra 
+sobresdrújula.
+60 ¿Qué palabras se tildan? No todas las palabras tónicas (es decir, 
+con acento prosódico) se escriben con tilde, sino solo aquellas que 
+la deban llevar de acuerdo con las siguientes reglas de acentuación 
+gráﬁ ca. Se escriben con tilde:
+a. mamá, atención, revés. Las palabras agudas que terminan en vo-
+cal o en las consonantes -n o -s precedidas de vocal: mamá, cana-
+pé, compró, atención, revés, Tomás, comáis.
+b. hábil, lápiz, bíceps. Las palabras llanas que terminan en conso-
+nante distinta de -n o -s, en consonante precedida de otra con-
+sonante o en  -y: cómic, huésped, hábil, estiércol, cráter, clímax , 
+lápiz, cíborg, wéstern, bíceps, tríceps, yóquey.
+c. sábado, prométaselo. Todas las palabras esdrújulas y sobresdrú-
+julas: sábado, cántico, escándalo, hábitat, énfasis, diálogo, promé-
+taselo, llevándosemelas.
+d. maíz, búho. Todas las palabras que contienen una secuencia for-
+mada por una vocal cerrada ( i, u) tónica seguida o precedida de 
+una vocal abierta (a, e, o), con independencia de las reglas ante-
+riores: maíz, baúl, aún, búho, prohíben, rehúso. No entran, pues, 
+en este grupo palabras como construido, huida o chiita, que con-
+tienen secuencias de dos vocales cerradas (i, u), por lo que no se 
+tilda la tónica en ellas, salvo que se requiera por las reglas de los 
+apartados anteriores: chií (aguda terminada en vocal) o cuídate 
+(esdrújula).
+e. ágilmente. Los adverbios en -mente formados sobre un adjetivo 
+con tilde, que la conserva: rápidamente, próximamente, ágilmen-
+te, prácticamente…
+f. té, sí, más. Ciertos monosílabos tónicos que tienen un correlato 
+átono con el que se considera que se podrían confundir: té, sí, 
+más… (➤ O-62).
+28810_03_LibroEstiloDeLaRAE.indd   10128810_03_LibroEstiloDeLaRAE.indd   101 25/10/18   07:5825/10/18   07:58
+
+102O-61 ACENTUACIÓN
+g. dónde, cómo. Los interrogativos y exclamativos (y los relativos 
+tónicos correspondientes en algunos contextos): dónde, cómo , 
+quiénes… (➤ O-65).
+61 guion, truhan, hui. Hay algunas palabras en español que, aunque se 
+puedan pronunciar en dos sílabas, se consideran monosílabas por 
+estar formadas por una secuencia que a efectos ortográﬁ cos se debe 
+tratar como un diptongo o como un triptongo (➤ P-13 y P-18). Es lo 
+que ocurre con palabras como guion, truhan, ion, cian y algunas for-
+mas verbales de pretérito perfecto simple (crie, crio, ﬁ o, ﬁ e, frio, rio, 
+hui, lie, lio) y de presente (criais, ﬁ eis, friais, riais, lieis…). 
+62 dé/de, él/el, mí/mi. Se llama tilde diacrítica a la tilde utilizada en 
+ciertas palabras tónicas, generalmente monosílabas, que tienen un 
+correlato átono con el que se podrían confundir. Se usa en estas pa-
+labras (para los interrogativos y exclamativos, ➤ O-65): dé (forma 
+del verbo dar) / de (preposición); él (pronombre) / el (artículo); 
+más (cuando expresa cantidad y no equivale a ‘pero’) / mas (‘pero’); 
+mí (pronombre) / mi (posesivo); sé (forma del verbo saber o ser) / 
+se (pronombre); sí (adverbio de aﬁ rmación) / si (conjunción); té 
+(infusión) / te (pronombre); tú (pronombre) / tu (posesivo).
+63 Sobre la tilde diacrítica, son necesarias algunas observaciones:
+a. dio, fe , ti . No se tildan los monosílabos tónicos que no tienen 
+ correlato átono. Así, no se tildan monosílabos como los siguien-
+tes: da, den, di, dio, fe, ﬁ n, fue, fui, ti, va, ve, vi, vio… Se exceptúa 
+tés (plural de té), que mantiene la tilde diacrítica del singular.
+b. son. La tilde diacrítica no distingue pares de palabras homófo-
+nas siempre tónicas. Así, no se tildan, por ejemplo, ni son del ver-
+bo ser ni el nombre son referido al sonido, y tampoco fue y fui, 
+formas de los verbos ir y ser, o di, de los verbos dar y decir. Sobre 
+la tilde en solo y los demostrativos, ➤ O-64. 
+c. la te. No todas las palabras tónicas con correlato átono se tildan. 
+No se escriben con tilde, por ejemplo, los nombres de las letras ni 
+de las notas musicales (la te, la nota la, un mi sostenido…), a pesar de 
+tener correlatos átonos (el pronombre te, el artículo o el pro-
+nombre la, el posesivo mi…). 
+d. dos más dos. La palabra más se escribe siempre con tilde (salvo 
+cuando mas equivale a pero) aunque en ciertos casos se pronun-
+cie átona: Dos más dos son cuatro; Tonto, más que tonto; No lo sé 
+más que yo.
+28810_03_LibroEstiloDeLaRAE.indd   10228810_03_LibroEstiloDeLaRAE.indd   102 25/10/18   07:5825/10/18   07:58
+
+103	 acentuación	 O-67
+e.	 4 o 5. La 	tilde 	diacrítica 	no 	se 	usa 	en 	la 	actualidad 	par a 	e vitar 	
+posibles
+	confusiones
+	gráficas
+,
+	por
+	lo
+	que
+	ho
+y
+	no
+	se
+	debe
+	tildar
+	la
+	
+conjunción
+	átona
+	o
+	por
+	ries
+go
+	de
+	que
+	se
+	confunda
+	con
+	un
+	cer
+o
+	
+cuando
+	
+aparece
+	
+entre
+	
+números:
+	
+4 o 5.
+f.	 aún y aun. No
+	 es
+	 r
+ealmente
+	 diacrítica,
+	 sino
+	 que
+	 r
+esponde
+	 a
+	 la
+	
+misma
+	r
+egla
+	que
+	la
+	de
+	palabr
+as
+	como
+	maíz
+	o
+	baúl
+	
+(➤ O-60,	d), 	la 	
+tilde
+	en
+	aún
+	‘toda
+vía’,
+	por
+	mucho
+	que
+	e
+xista
+	la
+	forma
+	átona
+	aun
+	
+‘incluso’.
+ 
+64	 La tilde en solo y este, ese, aquel. A 	pesar 	de 	que 	por 	tr adición 	se 	
+han
+	v
+enido
+	tildando
+	el
+	adv
+erbio
+	solo
+	y
+	los
+	pr
+onombres
+	demos
+trati-
+vos
+	(
+este, ese, aquel y
+	sus
+	deriv
+ados),
+	la
+	tilde
+	en
+	ellos
+	no
+	es
+taba
+	jus
+-
+tificada
+	por
+que
+	no
+	se
+	oponía
+	una
+	forma
+	tónica
+	a
+	una
+	átona
+	(
+tanto
+	el
+	
+adjetiv
+o
+	solo
+	como
+	los
+	determinantes
+	demos
+trativos
+	son
+	tónicos).
+	
+Ante
+	 es
+to,
+	 actualmente
+	 se
+	 r
+ecomienda
+	 no
+	 tildar
+	 es
+tos
+	 elementos
+	
+nunca,
+	si
+	bien
+	la
+	tilde
+	se
+	admite
+	si
+	ha
+y
+	ries
+go
+	de
+	ambigüedad,
+	aun
+-
+que
+	ha
+y
+	que
+	tener
+	en
+	cuenta
+	que
+	el
+	conte
+xto
+	o
+	la
+	sus
+titución
+	por
+	
+otr
+os
+	elementos
+	pueden
+	r
+esolver
+	gener
+almente
+	dicha
+	ambigüedad.
+	
+P
+or
+	su
+	parte
+,
+	nunca
+	deben
+	tildarse
+	e
+sto, eso y aquello,
+	formas
+	que
+	
+siempr
+e
+	funcionan
+	como
+	pr
+onombres
+	y
+	par
+a
+	las
+	que
+	las
+	academias
+	
+nunca
+	
+han
+	
+recomendado
+	
+la
+	
+tilde.
+65	 qué, cuál, quién, cómo, cuánto, 	cuán , cuándo, dónde y adónde. Es-
+tas
+	palabr
+as se
+	escriben
+	con
+	tilde
+	diacrítica
+	cuando
+	funcionan
+	como
+	
+interr
+ogativos
+	 o
+	 e
+xclamativos
+	 y
+,
+	 en
+	 determinados
+	 casos
+,
+	 cuando
+	
+funcionan
+	como
+	r
+elativos
+	y
+	son
+	tónicos
+	(➤ O-69).	Como 	interr oga-
+tivos
+	o
+	e
+xclamativos
+	pueden
+	apar
+ecer
+	en
+	pr
+eguntas
+	y
+	e
+xclamacio-
+nes,
+	como
+	en
+	es
+tos
+	casos:
+	¿Cómo 
+lo has hecho?; ¡Qué bien!; ¡Qué de 
+gente!; ¿Dónde comes hoy?; ¿Adónde va?; ¡Y cuándo quieres que lo 
+haga!; ¿Cuánto cuesta?; ¿Qué tal?
+	 T
+ambién
+	 pueden
+	 apar
+ecer
+	 en
+	
+cons
+trucciones
+	de
+	es
+te
+	tipo
+:
+	M
+e preguntó cuándo venías; No tengo ni 
+idea de cómo lo ha hecho; Me sorprende cuánto te quiere…
+66	 ¡Que vivan los novios! Los 	elementos 	que 	encabezan 	los 	enuncia -
+dos
+	interr
+ogativos
+	y
+	e
+xclamativos
+	no
+	siempr
+e
+	son
+	interr
+ogativos
+	o
+	
+e
+xclamativos,
+	y
+,
+	por
+	tanto
+,
+	no
+	siempr
+e
+	se
+	tildarán:
+	¡Que 
+te vaya bien!; 
+¡Que seáis felices!; ¡Que vivan los novios!; ¿Donde vive ahora es el mis-
+mo sitio que donde vivía antes?; ¡¿Que no vais a venir?!; ¿¡A que no se 
+atreve!?;
+	
+¿A que este es mejor?
+67	 el cómo y el dónde. No 	se 	debe 	pr escindir 	de 	la 	tilde 	en 	elementos 	
+como
+	 dónde
+, cómo o
+	 par
+a qué
+	 cuando
+	 se
+	 utilizan
+	 como
+	 nombr
+es:
+	
+28810_03_LibroEstiloDeLaRAE.indd   103 25/10/18   16:09
+
+104O-68 ACENTUACIÓN
+Preguntó el cómo y el dónde ; Quiere saber el porqué y el para qué de 
+esa declaración.
+68 En general, los relativos son átonos y no se tildan en situaciones 
+como las siguientes:
+a. el cajón donde lo encontraste. Cuando llevan un nombre delante 
+(su antecedente): Vuélvelo a meter en el cajón donde lo encontras-
+te; No tenía un sitio mejor adonde ir ; Es importante la manera 
+como lo cuentes; Tiene mucho que aprender…
+b. Hazlo como quieras . Cuando encabezan relativas sin antece-
+dente con verbos que no son haber, tener, buscar, encontrar, ne-
+cesitar…: Quien lo sepa que lo diga; Te llevo adonde quieras; Hazlo 
+como quieras.
+c. Así es como se hace. En las construcciones con ser del tipo de Yo  
+soy quien debe hacerlo; Allí es donde debería estar; Así es como se 
+hace; Hoy es cuando tendrías que publicarlo.
+d. Hazlo donde, como y cuando quieras . Cuando se coordinan (a 
+pesar de que se pronuncien todos tónicos salvo el último): Hazlo 
+donde, como y cuando quieras.
+69 No hay donde/dónde meterlo . Los relativos pueden tildarse o no 
+cuando es posible pronunciarlos átonos o tónicos con verbos como 
+haber, tener, buscar, encontrar, necesitar…: No tengo a quien/quién 
+contárselo; Tengo a quien/quién parecerme; No hay donde/dónde me-
+terlo; Buscan como/cómo subirlo a lo alto ; No descubro como/cómo 
+hacerlo.
+70 No tienes por qué hacerlo. Se pronuncia siempre tónico y se tilda el 
+pronombre qué precedido de por en casos como estos: No tienes por 
+qué hacerlo; No tiene por qué ser así; No hay por qué decir eso.
+71 No tiene que leer, frente a No tiene qué leer. En algunos contextos, 
+el sentido de un enunciado puede variar según si se utiliza que o 
+qué, quien o quién, cómo o como, etc.:
+l No se acuerda de quien vino ‘no tiene presente a la persona que 
+vino’, pero No se acuerda de quién vino  ‘no se acuerda de qué 
+persona fue la que vino’. 
+l Busca donde está Juan  ‘haz la búsqueda en el lugar donde está 
+Juan’, frente a Busca dónde está Juan  ‘investiga en qué lugar 
+está Juan’.
+l No tiene que leer hoy ‘no está obligado a leer hoy’, frente a No 
+tiene qué leer hoy ‘no tiene ningún libro para leer hoy’.
+28810_03_LibroEstiloDeLaRAE.indd   10428810_03_LibroEstiloDeLaRAE.indd   104 25/10/18   07:5825/10/18   07:58
+
+105 ACENTUACIÓN O-77
+l No hay como sacarlo fuera para que esté bien ‘no hay nada mejor 
+que sacarlo fuera para que esté bien’, frente a No hay cómo sa-
+carlo fuera para que esté bien  ‘no hay manera de sacarlo fuera 
+para que esté bien’.
+l Observó como/cómo se iban. Con verbos como observar, ver, oír, 
+comprobar, contemplar  y en algunos casos concretos explicar, 
+señalar o relatar, como se entiende de forma similar a que y cómo 
+se interpreta de forma similar a de qué manera.
+72 Óscar, PANADERÍA. Las mayúsculas se deben tildar igual que las 
+minúsculas: Óscar, PANADERÍA… Las Academias nunca han esta-
+blecido una norma por la que no hubiera que tildar las mayúscu-
+las.
+73 superbién, preví. Las palabras preﬁ jadas deben someterse a las re-
+glas de acentuación como cualquier otra palabra del español: super-
+bién, preví.
+74 decimocuarto , lógico-matemático . En los compuestos sin guion 
+(➤ O-184), el primer elemento pierde su tilde si la lleva y la pala-
+bra se acentúa de acuerdo con las reglas como si fuese simple: 
+decimocuarto  (de décimo y cuarto), cumulonimbo  (de cúmulo y 
+nimbo), farmacorresistente (de fármaco y resistente ), también (de 
+tan y bien). En los compuestos con guion (➤ O-185), cada elemento 
+conserva la acentuación gráﬁ ca que le corresponde como palabra 
+independiente (a pesar de que el primer elemento pueda pro-
+nunciarse átono): lógico-matemático , lingüístico-literarias , polí-
+tico-administra tiva…
+75 deme, estate, perdónala. Los resultados de la combinación de las 
+formas verbales con pronombres se tildan como si fuesen palabras 
+simples, siguiendo las reglas generales de acentuación: deme (de dé 
+y me); perdónala (de perdona y la); estate (de está y te); comiéndose 
+(de comiendo y se); tráigamelo (de traiga, me y lo)…
+76 pág., cént., M. Á. Cuando las abreviaturas de una palabra con tilde 
+contienen la vocal tildada, esta debe conservar su tilde: pág. (de pá-
+gina), cént. (de céntimo), M. Á. (de Miguel Ángel).
+77 LA, CIA, Fundéu. Las siglas escritas en mayúsculas no llevan nunca 
+tilde: CIA. Por tanto, no conservan la tilde de las palabras plenas: LA 
+(de Los Ángeles), EAU (de Emiratos Árabes Unidos)… Sí se tildan los 
+28810_03_LibroEstiloDeLaRAE.indd   10528810_03_LibroEstiloDeLaRAE.indd   105 25/10/18   07:5825/10/18   07:58
+
+106O-78 ACENTUACIÓN
+acrónimos que han pasado a escribirse en minúsculas o solo con 
+mayúscula inicial: láser, Fundéu… (➤ O-224).
+78 lim. Puesto que son elementos de uso internacional, los símbolos 
+(➤ O-231) se deben escribir sin tildes: a (símbolo del área), lim (sím-
+bolo del límite)…
+79 díver, Dépor. Los acortamientos se tildan como palabras nuevas de 
+acuerdo con las reglas: díver (de divertido), fácul (de facultad), Róber 
+(de Roberto), Dépor (de Deportivo de La Coruña), bus (de au tobús), 
+Atleti (de Atlético de Madrid), peli (de película), ulti (de  último)…
+80 Álvaro, Ségolène, Yénifer. Los nombres propios del español deben 
+acentuarse como las demás palabras: Álvaro, Benítez…  Solo los 
+nombres propios que no se consideren pertenecientes al español 
+conservarán la acentuación original de su lengua: del vasco Iker (si 
+se adapta, Íker) o Aranzabal (si se adapta, Aranzábal); del catalán 
+Núria (en español, Nuria), Bernabeu (en español, Bernabéu)… Otros: 
+Ségolène, Björn, António Guterres  (en portugués)… No son válidos 
+híbridos como UJénnifer: o se escribe Yénifer a la española o se opta 
+por la forma original Jennifer. 
+81 José María, Álvarez-Giménez. En los nombres propios compues-
+tos escritos en varias palabras, todos los elementos conservan su 
+acentuación a pesar de que puedan pronunciarse átonos: José Ma-
+ría, José Luis, María Luisa. Es posible, no obstante, optar por la gra-
+fía univerbal; en ese caso, las reglas de acentuación se aplican sobre 
+la voz compuesta resultante: Josemaría. Los apellidos compuestos 
+escritos con guion conservan la acentuación gráﬁ ca de sus dos ele-
+mentos: Álvarez-Giménez, Sánchez-Dueñas.
+82 et alii, pero currículum. Los extranjerismos crudos (➤ O-235) con-
+servan los signos diacríticos de su lengua original: déjà vu. Por esta 
+misma razón, los latinismos y las locuciones latinas, tratados como 
+extranjerismos sin adaptar (➤ O-236), no deben tildarse: ibidem, et 
+alii… Sí se someterán a las reglas de acentuación del español aque-
+llos latinismos que se consideren adaptados e incorporados al léxi-
+co español: aﬁ dávit, currículum, déﬁ cit, ultimátum… 
+83 Síííííííí. En las palabras en las que se repite alguna letra para reﬂ ejar 
+un alargamiento expresivo en la pronunciación (➤ O-57), si la letra 
+repetida es una vocal con tilde, se debe tildar en todas las repeticio-
+nes: Sííííííííí; Estoy aquíííííí; Mamáááááááá.
+28810_03_LibroEstiloDeLaRAE.indd   10628810_03_LibroEstiloDeLaRAE.indd   106 25/10/18   07:5825/10/18   07:58
+
+107 PUNTUACIÓN O-86
+84 Algunas palabras se pueden acentuar prosódica y gráﬁ  camente de 
+distintas maneras sin cambio de signiﬁ cado, como en los siguientes 
+casos:
+a. adecua/adecúa. Algunas formas de ciertos verbos terminados 
+en -uar o -iar: adecua/adecúa, agría/agria… (➤ G-40, d).
+b. olimpiada/olimpíada, cardiaco/cardíaco. Palabras terminadas 
+en -iada/-íada, -iodo/íodo , -iaco/íaco : olimpiada/olimpíada, pe-
+riodo/período, amoniaco/amoníaco, cardiaco/cardíaco, mania-
+co/maníaco…
+c. alveolo/alvéolo. Palabras procedentes del diminutivo latino -ŏlus, 
+-ŏla: alvéolo/alveolo, bronquiolo/bronquíolo, rubeola/rubéola…
+d. mamá/mama, José/Jose . Variantes según niveles y registros: 
+mamá (más culto) / mama (popular y rural); José, Rubén (for-
+mal) / Jose, Ruben (coloquial).
+e. chofer/chófer, futbol/fútbol. Algunas palabras con variación entre 
+el español de América y el de España, como en los siguientes casos 
+(primero se ofrece la forma americana): chofer/chófer, futbol/fút-
+bol, ícono/icono, video/vídeo… A esas se suman las palabras termi-
+nadas en -sfera, que son llanas en España (ionosfera, estratosfera, 
+biosfera…), salvo atmósfera, pero en América tienden a usarse 
+como esdrújulas (atmósfera, ionósfera, estratósfera, biósfera…).
+85 paragüero y pingüino, pero guillotina, guerra o paraguas. La dié-
+resis (¨) solo se emplea hoy con carácter general en español para 
+indicar que una u precedida de g y seguida de e o i se pronuncia. Así, 
+se sabe que la u de pingüino se debe pronunciar, pero no la de guillo-
+tina, igual que se pronuncia la u de desagüe, pero no la de guerra. 
+Otras palabras que se escriben con diéresis en español son paragüe-
+ro, lingüista, lingüística, vergüenza, antigüedad, ambigüedad, cigüe-
+ña, agüita, pedigüeño, Argüelles, averigüe… No se deben escribir con 
+diéresis, por el contrario, las palabras en las que la u se pronuncia, 
+pero aparece ante una vocal distinta de e o i: paraguas, ambiguo , 
+aguadilla, antiguo, guante, averiguar…
+PUNTUACIÓN
+86 El punto es un signo de forma circular (.) que se escribe pegado a la 
+palabra o signo anterior y separado del elemento siguiente por un 
+espacio. No se debe confundir el punto de cierre de enunciado con 
+el punto usado en las abreviaturas (➤ O-226). Aunque tienen la mis-
+28810_03_LibroEstiloDeLaRAE.indd   10728810_03_LibroEstiloDeLaRAE.indd   107 25/10/18   07:5825/10/18   07:58

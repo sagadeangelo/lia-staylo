@@ -1,0 +1,28 @@
+2025-09-03 13:39:31.040 GMT-06:00 INFO  org.languagetool.server.DatabaseAccessOpenSource Not setting up database access, dbDriver is not configured
+2025-09-03 19:39:31 +0000 Setting up thread pool with 10 threads
+2025-09-03 13:39:32.442 GMT-06:00 WARN  org.languagetool.language.identifier.DefaultLanguageIdentifier fastText not configured - language detection performance will be degraded. See https://dev.languagetool.org/http-server#starting-from-command-line for instructions.
+2025-09-03 13:39:32.568 GMT-06:00 INFO  org.languagetool.server.TextChecker A/B-Test enabled: []
+2025-09-03 19:39:32 +0000 Starting LanguageTool 6.6 (build date: 2025-03-27 20:50:25 +0100, f3e8d91) server on http://localhost:8081...
+2025-09-03 19:39:32 +0000 Server started
+2025-09-03 13:39:34.625 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:39:34.676 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 67ms; sending code 200
+2025-09-03 13:39:34.729 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:39:34.732 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 3ms; sending code 200
+2025-09-03 13:39:54.454 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 13:39:54.460 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 6ms; sending code 200
+2025-09-03 13:40:22.928 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling POST /v2/check
+2025-09-03 13:40:26.194 GMT-06:00 INFO  org.languagetool.server.TextChecker Check done: 28 chars, es, requestId: null, #1, null, 0/2 matches, 3234ms, agent:-, sent, q:0, h:1, dH:1, r:4, m:all, premium: false
+2025-09-03 13:40:26.200 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 3272ms; sending code 200
+2025-09-03 14:08:57.051 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 14:08:57.060 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 9ms; sending code 200
+2025-09-03 14:09:30.925 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling POST /v2/check
+2025-09-03 14:09:47.722 GMT-06:00 INFO  org.languagetool.server.TextChecker Check done: 288595 chars, es, requestId: null, #2, null, 0/66 matches, 16763ms, agent:-, sent, q:0, h:1, dH:1, r:6, m:all, premium: false
+2025-09-03 14:09:47.726 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 16802ms; sending code 200
+2025-09-03 14:10:06.157 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling POST /v2/check
+2025-09-03 14:10:18.037 GMT-06:00 INFO  org.languagetool.server.TextChecker Check done: 288595 chars, es, requestId: null, #3, null, 0/66 matches, 11864ms, agent:-, sent, q:0, h:1, dH:1, r:7, m:all, premium: false
+2025-09-03 14:10:18.041 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 11884ms; sending code 200
+2025-09-03 14:12:03.171 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling GET /v2/languages
+2025-09-03 14:12:03.175 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 4ms; sending code 200
+2025-09-03 14:31:47.656 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handling POST /v2/check
+2025-09-03 14:32:05.924 GMT-06:00 INFO  org.languagetool.server.TextChecker Check done: 146891 chars, es, requestId: null, #4, null, 0/76 matches, 18256ms, agent:-, sent, q:0, h:1, dH:1, r:9, m:all, premium: false
+2025-09-03 14:32:05.929 GMT-06:00 INFO  org.languagetool.server.LanguageToolHttpHandler Handled request in 18273ms; sending code 200
