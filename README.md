@@ -38,7 +38,7 @@ Desarrollado con **Flutter (frontend)** y **FastAPI (backend)**, combina precisi
 
 ---
 
-## 🧱 Arquitectura del sistema
+#### 🧱 Arquitectura del sistema
 
 | Módulo                     | Contenido                                                                                      |
 | -------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -141,5 +141,3 @@ Desarrollado por Miguel Tovar — Saga de Ángelo / Proyecto LIA
 Distribución con fines educativos y de demostración.
 Para licencias comerciales o distribución, contacta:
 📩 contacto@lasagadeangelo.com.mx
-
-<p align="center"> <b>🌌 LIA-Staylo — Más que corrección, es estilo con propósito.</b><br> <a href="https://github.com/sagadeangelo/lia-staylo">⭐ Visita el repositorio en GitHub</a> </p> ```
