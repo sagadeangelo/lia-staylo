@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:lia_staylo/utils/lt_format.dart';
+
 class LtObservationTile extends StatelessWidget {
   const LtObservationTile({
     super.key,
@@ -138,16 +140,10 @@ class LtObservationTile extends StatelessWidget {
       final s = v?.toString().trim() ?? '';
       return s.isEmpty ? null : s;
     }
-    bool _looksValue(String s) {
-      final x = s.trim().toLowerCase();
-      if (x == 'value' || x == '{value}' || x == 'valor') return true;
-      if (RegExp(r'^\s*\{?\s*value\s*:', caseSensitive: false).hasMatch(x)) return true;
-      return false;
-    }
     token ??= _safe(m['matchedText']);
     token ??= _safe(m['word']);
     token ??= _safe(m['token']);
-    if (token != null && _looksValue(token!)) token = null;
+    if (token != null && LtFormat.isPlaceholderToken(token!)) token = null;
 
     // Filtra sugerencias cercanas al token
     final filtered = _filterSuggestions(token, dedup, max: 12);

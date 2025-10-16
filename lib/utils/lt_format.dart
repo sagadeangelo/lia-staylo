@@ -26,14 +26,35 @@ abstract final class LtFormat {
     caseSensitive: false,
   );
 
-  static bool _looksLiteralValue(String s) {
-    final x = s.trim().toLowerCase();
-    if (x == 'value' || x == '{value}' || x == 'valor') return true;
-    if (RegExp(r'^\s*\{?\s*value\s*:', caseSensitive: false).hasMatch(x)) {
+  /// Detecta si el token es un marcador genérico "value"/"valor" proveniente
+  /// del payload de LanguageTool en vez de una palabra real del texto.
+  static bool isPlaceholderToken(String s) {
+    final raw = s.trim();
+    if (raw.isEmpty) return false;
+
+    final lower = raw.toLowerCase();
+
+    // Casos explícitos del backend: "{value: ...}" o "value: ..."
+    if (RegExp(r'^\s*\{?\s*value\s*[:=]', caseSensitive: false).hasMatch(lower)) {
       return true;
     }
+
+    // Limpia envoltorios comunes ({ }, comillas, paréntesis) y signos finales.
+    final stripped = lower
+        .replaceAll(RegExp(r'^[\{\[\(<"“¡¿«»\s]+'), '')
+        .replaceAll(RegExp(r"[\}\]\)>\"”¡¿«»\s\.\,;:!¡¿?'\-]+$"), '')
+        .trim();
+
+    // Al quedarnos solo con letras, comprobamos si corresponde al marcador.
+    final alphaOnly = stripped.replaceAll(RegExp(r'[^a-záéíóúüñ]'), '');
+    if (alphaOnly == 'value' || alphaOnly == 'valor') {
+      return true;
+    }
+
     return false;
   }
+
+  static bool _looksLiteralValue(String s) => isPlaceholderToken(s);
 
   static String _stripAccents(String s) {
     const from = 'áéíóúüÁÉÍÓÚÜñÑ';

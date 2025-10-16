@@ -10,12 +10,12 @@ class LtSanitize {
   );
 
   static final _tokenValueLine = RegExp(
-    r'(?m)^(Token\s*:)\s*(?:value|\{?\s*value\s*:\s*[^}]*\}?)\s*$',
+    r"(?m)^(Token\s*:)\s*(?:value(?:\s*[\]\)\}\.,;:!¡¿?"'»«“”_-])*|\{?\s*value\s*:\s*[^}]*\}?)\s*$",
     caseSensitive: false,
   );
 
   static final _fragmentValueLine = RegExp(
-    r'(?m)^(Fragmento\s*:)\s*(?:value|\{?\s*value\s*:\s*[^}]*\}?)\s*$',
+    r"(?m)^(Fragmento\s*:)\s*(?:value(?:\s*[\]\)\}\.,;:!¡¿?"'»«“”_-])*|\{?\s*value\s*:\s*[^}]*\}?)\s*$",
     caseSensitive: false,
   );
 
